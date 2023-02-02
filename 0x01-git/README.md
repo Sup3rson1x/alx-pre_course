@@ -1,2 +1,1 @@
-My first readme
-Works
+Alx pre_course is amazing!
